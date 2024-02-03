@@ -10,7 +10,7 @@ A simple tool that allows you to pack your mod .jar file to .dll and inject it i
 
 For building this I personally recommend using WSL on Windows or Linux
 
-To build, you need these packages installed:
+To build, you need these packages installed
 
 - `g++-mingw-w64-x86-64`
 - Some kind of JDK (I prefer using [Adoptium Temurin](https://adoptium.net/temurin/releases/), all install instructions are available on their website)
